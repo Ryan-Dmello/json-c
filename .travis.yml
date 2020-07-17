@@ -1,4 +1,6 @@
 language: cpp
+arch:
+  - ppc64le
 matrix:
   include:
 # gcc
